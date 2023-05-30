@@ -5,3 +5,4 @@
 <h1> testing app deployment into tomcat webservice update3 </h1>
 <h1> testing app deployment into tomcat webservice update4 </h1>
 <h1> testing app deployment into tomcat webservice update5 </h1>
+<h1> testing app deployment into tomcat webservice update6 </h1>
